@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sahil, a  full-stack web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently a student
   
 
 - 🌱 I’m currently learning Machine Learning  
