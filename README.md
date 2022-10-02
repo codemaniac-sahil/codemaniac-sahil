@@ -1,7 +1,7 @@
 ### Hi there, I am Sahil 👋
 
 <!--
-**codemaniac-sahil/codemaniac-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codemaniac-sahil/codemaniac-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/Bisht_6903)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding :)
--->
+
