@@ -87,7 +87,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codemaniac-sahil&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codemaniac-sahil&show_icons=true&count_private=true&hide_border=true" align="center" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaniac-sahil&show_icons=true&locale=en&layout=compact" alt="codemaniac-sahil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaniac-sahil&" alt="codemaniac-sahil" /></p>
+
+</div>  
 
 <br/>  
 
@@ -116,3 +120,4 @@
                 />
             </a></div>
 <br />
+
