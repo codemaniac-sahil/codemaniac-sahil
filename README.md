@@ -92,8 +92,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaniac-sahil&" alt="codemaniac-sahil" /></p>
 
 
-[![@codemaniacsahil's Holopin board](https://holopin.io/api/user/board?user=codemaniacsahil)](https://holopin.io/@codemaniacsahil)
-
 </div>  
 
 <br/>  
