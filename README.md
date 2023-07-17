@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Sahil, a  full-stack web developer 👨‍💻 </div>  
+### <div align="center">I'm Sahil Bisht, a  full-stack web developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently a student
   
 
-- 🌱 I’m currently learning Machine Learning  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
