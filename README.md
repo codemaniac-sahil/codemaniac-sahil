@@ -3,7 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Sahil Bisht, a  full-stack web developer 👨‍💻 </div>  
+ <div align="center"><h1>Hey there 👋, I'm Sahil Bisht 👨‍💻 </h1></div>  
+
+
+<img src="header.png" alt="" srcset="">
+
+
   
 
 - 🔭 I’m currently a student
@@ -84,9 +89,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codemaniac-sahil&show_icons=true&count_private=true&hide_border=true" align="center" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaniac-sahil&show_icons=true&locale=en&layout=compact" alt="codemaniac-sahil" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaniac-sahil&" alt="codemaniac-sahil" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codemaniac-sahil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" align="center" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaniac-sahil&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="codemaniac-sahil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaniac-sahil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="codemaniac-sahil" /></p>
 
 
 </div>  
