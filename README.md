@@ -93,7 +93,8 @@
 
 <br/>  
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=codemaniac-sahil&&style=flat-square" align="center" />
