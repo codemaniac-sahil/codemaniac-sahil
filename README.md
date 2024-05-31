@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to MERN stack 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I have OCD in Programming.
   
 
 <br/>  
