@@ -106,6 +106,8 @@
 </div>  
   
 
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaniac-sahil&theme=react-dark)](https://github.com/codemaniac-sahil/github-readme-activity-graph)
+
 <br/>  
 
 <div align="center">
